@@ -1,4 +1,4 @@
-# cannabis-log-reg
+# cannabis-quality
 
 # Problem and Analytical Statement
 Here the problem we are addressing is that we need to know which the plants are having the quality to be considered as the best which is “1” which can be used for medical purposes, and others that shall be used for other purposes such as recreational use are the rest which will be “0”.
