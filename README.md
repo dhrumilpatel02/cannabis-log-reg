@@ -1,12 +1,12 @@
 # cannabis-quality
 
 # Introduction
-•	This report generates analysis and evaluation of the cannabinoid potency within the medical products that Starseed Medical offers as a remedy to cure health problems.  
+•	This report generates analysis and evaluation of the cannabinoid potency.  
 •	The analysis will give us valuable insights on which plant quality we should consider as the best, that shall help us differentiate it either for medical use or for recreational use.
 
 
 # Key Questions
-•	If Data Analysis can help Starseed gain any insights out of the processes or not  
+•	If Data Analysis can help us gain any insights out of the processes or not  
 •	If a plant of the best quality (which can be used for medical purpose) or not  
 •	If a plant is of comparatively lower quality (which can be used for recreational purpose) or not. Which may not be Starseed’s main aim, but it can bring them extra revenue to support the medical process  
 
@@ -35,6 +35,5 @@
 •	It is evident that we Starseed can set up a pipeline where they can start selling recreational cannabis as we could see there is a fair amount of plants that will be wasted if we ignore it all together, and it can definitely give a good revenue source for Starseed.  
 
 # Conclusion
-•	For Starseed, Data Analytics can surely help them progress in their processes as we have achieved a significant threshold for metrics via our model.  
-•	Our analysis will be able to help Starseed understand the plants better by spotting the best ones.  
-•	Similarly, our analysis can also help them understand if there is a potential in the recreational market as they should consider selling recreational cannabis from there existing resources which shall help them in their revenues.  
+•	Our analysis helps us understand the plants better by spotting the best ones.  
+•	Similarly, our analysis can also help them understand if there is a potential in the recreational market as the company should consider selling recreational cannabis from there existing resources which shall help them in their revenues.  
