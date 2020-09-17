@@ -20,7 +20,8 @@
 •	Stem_Fm-stem form  
 •	Crown_Fm-crown form  
 •	Brnch_Fm-branch form  
-•	Utility-utility rating    
+•	Utility-utility rating  
+  
 •	During the EDA after eliminating all the null values we retained 1282 non-null values for all the variables, we can see it by running a simple .info statement.  
 •	With .describe it can be seen that there is a pattern between variables.  
 •	With the Boxplot visualizations of the features, we could see that there are a significant number of outliers in the dataset.  
